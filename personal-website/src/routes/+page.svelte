@@ -1,6 +1,6 @@
 
 
-<div> 
+<div class="main"> 
   
   <h1> Hello World </h1>
   
@@ -22,9 +22,15 @@
 
 <style lang="scss">
   
+  .main{
 
-  h1 {
-    color: blue;
+
+    h1 {
+      color: red;
+    }
+
   }
 </style>
+ 
+
 
